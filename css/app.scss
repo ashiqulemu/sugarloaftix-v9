@@ -1586,11 +1586,8 @@ input[type='checkbox'] {
 }
 
 .vw-50 {
-    width: 50vw;
-
+    width: 50vw; 
     @media(max-width:600px) {
         width: 75vw;
     }
-}
-
-.venue {}
+} 
